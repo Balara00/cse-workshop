@@ -2,7 +2,9 @@ package it.uom.cse;
 
 import java.util.Arrays;
 
-
+/**
+ * THIS IS THE CLASS WHICH HAS MATHEMATICAL FUNCTIONALITY
+ */
 public class MathOperation {
 
     public static double add(double... operands)
